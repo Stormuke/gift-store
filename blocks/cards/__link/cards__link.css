@@ -1,0 +1,13 @@
+.cards__link {
+  margin: 0;
+  margin: 74px 0 24px 24px;
+  font-size: 14px;
+  text-decoration: none;
+  color:#000000;
+  transition: opacity .3s linear;
+  width: fit-content;
+}
+
+.cards__link:hover {
+  opacity: 0.5;
+}

@@ -1,0 +1,6 @@
+.blog__item-content {
+  padding-left: 78px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}

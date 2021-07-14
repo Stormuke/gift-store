@@ -1,0 +1,7 @@
+.blog__item {
+  display: flex;
+  margin: 71px auto 40px;
+  min-width: 80%;
+  background-color: rgba(35, 31, 32, 1);
+  color: #fff;
+}

@@ -1,0 +1,13 @@
+.footer__social {
+  list-style-type: none;
+  transition: opacity .4s linear;
+  margin-right: 10px;
+}
+
+.footer__social:hover {
+  opacity: .6;
+}
+
+.footer__social:last-child {
+  margin-right: 0;
+}

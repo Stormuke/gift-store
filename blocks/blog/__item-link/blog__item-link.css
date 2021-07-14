@@ -1,0 +1,10 @@
+.blog__item-link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  transition: opacity .4s linear;
+}
+
+.blog__item-link:hover {
+  opacity: .7;
+}

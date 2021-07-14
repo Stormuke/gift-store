@@ -1,0 +1,6 @@
+.gifts {
+  padding: 96px 0 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

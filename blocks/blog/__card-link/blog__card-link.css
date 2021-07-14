@@ -1,0 +1,10 @@
+.blog__card-link {
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+  transition: opacity .4s linear;
+}
+
+.blog__card-link:hover {
+  opacity: .7;
+}

@@ -1,0 +1,10 @@
+.description__content {
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  padding-left: 102px;
+  box-sizing: border-box;
+  justify-content: center;
+  background-color: rgba(241, 241, 242, 1);
+}

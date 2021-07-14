@@ -1,0 +1,7 @@
+.blog__item-title {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 400;
+  max-width: 70%;
+  line-height: 58px;
+}

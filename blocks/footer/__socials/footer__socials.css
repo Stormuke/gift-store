@@ -1,0 +1,8 @@
+.footer__socials {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  padding: 55px 0 72px;
+  min-width: 25%;
+  justify-content: space-between;
+}

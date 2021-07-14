@@ -1,0 +1,7 @@
+.footer__navigation {
+  display: flex;
+  padding: 53px 0;
+  min-width: 70%;
+  justify-content: space-evenly;
+  border-bottom: 1px solid #000;
+}
