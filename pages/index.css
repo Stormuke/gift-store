@@ -44,6 +44,7 @@
 @import url(../blocks/blog/__item-content/blog__item-content.css);
 @import url(../blocks/blog/__item-link/blog__item-link.css);
 @import url(../blocks/blog/__item-title/blog__item-title.css);
+@import url(../blocks/blog/__item-image/blog__item-image.css);
 @import url(../blocks/blog/__cards/blog__cards.css);
 @import url(../blocks/blog/__card/blog__card.css);
 @import url(../blocks/blog/__card-title/blog__card-title.css);

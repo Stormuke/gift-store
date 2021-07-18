@@ -1,6 +1,17 @@
-.started__title {
-  margin: 0;
-  font-size: 32px;
-  font-weight: 700;
-  line-height: 45px;
-}
+@media screen and (min-width: 601px) {
+  .started__title {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 45px;
+  }
+  }
+
+  @media screen and (max-width: 600px) {
+    .started__title {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 45px;
+    }
+    }

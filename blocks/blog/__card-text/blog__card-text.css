@@ -1,5 +1,15 @@
-.blog__card-text {
-  margin: 0;
-  padding: 16px 0;
-  font-size: 18px;
+@media screen and (min-width: 601px) {
+  .blog__card-text {
+    margin: 0;
+    padding: 16px 0;
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .blog__card-text {
+    margin: 0;
+    padding: 16px 0;
+    font-size: 10px;
+  }
 }

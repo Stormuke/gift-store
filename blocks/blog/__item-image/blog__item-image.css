@@ -1,0 +1,13 @@
+@media screen and (min-width: 601px) {
+  .blog__item-image {
+    width: 100%;
+    height: auto;
+  }
+}
+
+ @media screen and (max-width: 600px) {
+  .blog__item-image {
+    width: 50%;
+    height: auto;
+  }
+ }

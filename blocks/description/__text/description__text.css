@@ -1,6 +1,17 @@
-.description__text {
-  margin: 0;
-  padding: 36px 0 52px;
-  font-size: 20px;
-  line-height: 29px;
+@media screen and (min-width: 601px) {
+  .description__text {
+    margin: 0;
+    padding: 36px 0 52px;
+    font-size: 20px;
+    line-height: 29px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .description__text {
+    margin: 0;
+    padding: 10px 0 11px;
+    font-size: 10px;
+    line-height: 12px;
+  }
 }

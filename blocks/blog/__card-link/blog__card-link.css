@@ -1,8 +1,19 @@
-.blog__card-link {
-  text-decoration: none;
-  color: #000;
-  font-size: 14px;
-  transition: opacity .4s linear;
+@media screen and (min-width: 601px) {
+  .blog__card-link {
+    text-decoration: none;
+    color: #000;
+    font-size: 14px;
+    transition: opacity .4s linear;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .blog__card-link {
+    text-decoration: none;
+    color: #000;
+    font-size: 10px;
+    transition: opacity .4s linear;
+  }
 }
 
 .blog__card-link:hover {

@@ -1,7 +1,21 @@
-.footer__navigation {
-  display: flex;
-  padding: 53px 0;
-  min-width: 70%;
-  justify-content: space-evenly;
-  border-bottom: 1px solid #000;
+@media screen and (min-width: 601px) {
+  .footer__navigation {
+    display: flex;
+    padding: 53px 0;
+    min-width: 70%;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #000;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .footer__navigation {
+    display: flex;
+    padding: 25px 0;
+    min-width: 80%;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #000;
+    align-items: center;
+  }
 }
