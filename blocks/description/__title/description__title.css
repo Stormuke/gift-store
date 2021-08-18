@@ -1,15 +1,16 @@
-@media screen and (min-width: 601px) {
-  .description__title {
-    font-size: 56px;
-    margin: 0;
-    max-width: 55%;
-   }
+.description__title {
+  margin: 0;
+  max-width: 55%;
 }
 
-@media screen and (max-width: 600px) {
-.description__title {
- font-size: 14px;
- margin: 0;
- max-width: 55%;
+@media screen and (min-width: 1024px) {
+  .description__title {
+    font-size: 40px;
+  }
 }
+
+@media screen and (max-width: 1024px) {
+  .description__title {
+    font-size: 14px;
+  }
 }

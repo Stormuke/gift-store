@@ -1,11 +1,11 @@
 .footer__social {
   list-style-type: none;
-  transition: opacity .4s linear;
+  transition: opacity 0.4s linear;
   margin-right: 10px;
 }
 
 .footer__social:hover {
-  opacity: .6;
+  opacity: 0.6;
 }
 
 .footer__social:last-child {

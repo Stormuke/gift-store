@@ -5,9 +5,9 @@
   }
 }
 
- @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .blog__item-image {
     width: 50%;
     height: auto;
   }
- }
+}

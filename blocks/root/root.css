@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'Gilroy';
+  font-family: "Gilroy";
   src: url(../../vendor/fonts/gilroy-regular.ttf);
   font-weight: 400;
 }
 
 @font-face {
-  font-family: 'Gilroy';
+  font-family: "Gilroy";
   src: url(../../vendor/fonts/gilroy-semibold.ttf);
   font-weight: 700;
 }
 
 .root {
-  font-family: 'Gilroy', Arial, sans-serif;
+  font-family: "Gilroy", Arial, sans-serif;
   min-width: 100%;
   color: rgba(0, 0, 0, 1);
 }

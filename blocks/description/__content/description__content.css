@@ -1,14 +1,14 @@
 @media screen and (min-width: 601px) {
-.description__content {
-  width: 50%;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  padding-left: 102px;
-  box-sizing: border-box;
-  justify-content: center;
-  background-color: rgba(241, 241, 242, 1);
-}
+  .description__content {
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-left: 102px;
+    box-sizing: border-box;
+    justify-content: center;
+    background-color: rgba(241, 241, 242, 1);
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -22,4 +22,4 @@
     background-color: rgba(241, 241, 242, 1);
     padding: 5px 0 5px 15px;
   }
-  }
+}

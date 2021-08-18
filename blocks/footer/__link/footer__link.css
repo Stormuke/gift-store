@@ -1,7 +1,7 @@
 .footer__link {
   font-size: 14px;
   font-weight: 700;
-  transition: opacity .4s linear;
+  transition: opacity 0.4s linear;
   text-decoration: none;
   color: #000;
 }
